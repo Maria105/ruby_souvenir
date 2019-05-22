@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  image_url: cup.png
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: cup.png
+  price: 9.99
+
+cup:
+  title: cups
+  description:
+    Our cup made with durable material.
+    You can create personal print or buy the one that is available.
+  image_url: cup.png
+  price: 150.00
